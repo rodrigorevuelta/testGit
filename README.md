@@ -1,2 +1,8 @@
 # testGit
 tutorial git
+
+probar el merge
+
+probar que pasa cambiando un fichero en varios sitio en distintas ramas
+
+probar que pasa cambiando un fichero en el mismo sitio en distintas ramas
